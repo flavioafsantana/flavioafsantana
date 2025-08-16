@@ -8,6 +8,7 @@
 ---
 
 ### 🚀 Tecnologias & Ferramentas
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,6 +20,7 @@
 ---
 
 ### 📌 Sobre Mim
+
 - 🚀 Em transição de carreira para **Tecnologia**
 - 🎯 Foco em **Java Backend**
 - 📖 Experiência crescente em **HTML, CSS, JavaScript**
@@ -30,12 +32,30 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioafsantana&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioafsantana&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavioafsantana&show_icons=true&theme=radical&cache_seconds=1800&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioafsantana&layout=compact&theme=radical&cache_seconds=1800&langs_count=8&hide=cmake" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=flavioafsantana&theme=radical&cache_seconds=1800" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=flavioafsantana&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ---
 
 ### 🌐 Vamos nos conectar?
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavioafsantana)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavioafsantana@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=flavioafsantana&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
